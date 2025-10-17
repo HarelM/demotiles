@@ -1,6 +1,6 @@
 {
    "tiles":[
-      "https://demotiles.maplibre.org/tiles-omt/{z}/{x}/{y}.pbf"
+      "https://harelm.github.io/demotiles/tiles-mlt/plain/{z}/{x}/{y}.mlt"
    ],
    "name":"OpenMapTiles",
    "format":"pbf",
@@ -23,7 +23,7 @@
       8
    ],
    "minzoom":0,
-   "maxzoom":14,
+   "maxzoom":7,
    "vector_layers":[
       {
          "id":"aerodrome_label",
